@@ -1,2 +1,1 @@
-Research about skin lesion   
-deep leanring based research
+Research about skin lesion image classification based on novel deep leanring method (Vision Mamba).
