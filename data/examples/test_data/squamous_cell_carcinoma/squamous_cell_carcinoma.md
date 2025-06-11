@@ -1,0 +1,1 @@
+squamous_cell_carcinoma 鳞状细胞癌
